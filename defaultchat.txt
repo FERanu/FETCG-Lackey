@@ -1,0 +1,17 @@
+/draw 7
+/roll
+Mulligan
+/shuffle Deck
+Thinking...
+Surprise card!
+Your turn.
+You done?
+Please read the card.
+Reading cards...
+Using skill
+Yay!
+Good game.
+/clear
+/ping
+/newgame
+/specate
