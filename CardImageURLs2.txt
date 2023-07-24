@@ -1,0 +1,2 @@
+CardImageURLs:	
+Chipbank.gif	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/Token/Chipbank.gif
