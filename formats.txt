@@ -1,0 +1,16 @@
+<formatdefinitions>
+<format><label>Judgral</label>
+<set>S1</set>
+<set>S2</set>
+<set>S3</set>
+<set>S4</set>
+<set>AN</set>
+<set>P</set>
+<set>PR</set>
+</format>
+<format><label>Archanea</label>
+<set>S5</set>
+<set>S6</set>
+<set>P</set>
+</format>
+</formatdefinitions>
