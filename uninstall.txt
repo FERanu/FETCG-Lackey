@@ -1,0 +1,5 @@
+<uninstall>
+
+<dateYYMMDD>230725</dateYYMMDD>
+
+</uninstall>

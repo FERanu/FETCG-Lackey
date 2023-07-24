@@ -1,0 +1,24 @@
+FE_TCG	25-07-23
+plugins/FE_TCG/version.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/version.txt
+plugins/FE_TCG/formats.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/formats.txt
+plugins/FE_TCG/plugininfo.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/plugininfo.txt
+plugins/FE_TCG/uninstall.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/uninstall.txt
+plugins/FE_TCG/CardImageURLs1.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/CardImageURLs1.txt
+plugins/FE_TCG/CardImageURLs2.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/CardImageURLs2.txt
+plugins/FE_TCG/defaultchat.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/defaultchat.txt
+plugins/FE_TCG/sets/cardback.jpg	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/cardback.jpg
+plugins/FE_TCG/sets/cardata.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/cardata.txt
+plugins/FE_TCG/sets/Token.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/Token.txt
+plugins/FE_TCG/saved/start.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/start.txt
+images/backgrounds/FETCGBrown.png	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/FETCGBrown.png
+images/backgrounds/FETCGGreen.png	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/FETCGGreen.png
+images/zonebackgrounds/DeckArea.png	https://dl.dropboxusercontent.com/s/1a4rjwwdz1ptqwj/DeckArea.png	
+images/zonebackgrounds/DeckArea2.png	https://dl.dropboxusercontent.com/s/o771qh06yqo0rbd/DeckArea2.png	
+images/zonebackgrounds/DeckArea3.png	https://dl.dropboxusercontent.com/s/zg6qat3bybk2v10/DeckArea3.png	
+
+CardURLFiles:	
+CardImageURLs1.txt
+CardImageURLs2.txt
+
+CardGeneralURLs:
+http://eg.nttpub.co.jp/fe
