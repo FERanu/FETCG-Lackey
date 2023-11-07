@@ -1,0 +1,16 @@
+<save>
+<player>
+<name>Player0</name>
+<seat>0</seat>
+</player>
+<player>
+<name>Player1</name>
+<seat>1</seat>
+</player>
+<table>
+<card><id>944</id><owner>Ranu</owner><x>0.66</x><y>0.69</y><Green>20</Green></card>
+<card><id>944</id><owner>Ranu</owner><x>0.66</x><y>-0.69</y></card>
+<card><id>944</id><owner>Ranu</owner><x>-0.66</x><y>-0.69</y><Green>20</Green></card>
+<card><id>944</id><owner>Ranu</owner><x>-0.66</x><y>0.69</y></card>
+</table>
+</save>
