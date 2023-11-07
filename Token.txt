@@ -1,0 +1,2 @@
+Name	Set	ImageFile	Energy	Attack	Counter	Class	Type	Weapon Rank	Equipment	Leadership	Constitution	Relationships	Skills / Abilities	Emblem Powers	Special Abilities	Use Timing	Effect	Nation	Rom. Name	Script
+Chipbank	Token	Chipbank.gif					Token												<s><l>Counter +3</l><f>/ccg+3</f></s> <s><l>Counter -3</l><f>/ccg-3</f></s> <s><l>Counter +5</l><f>/ccg+5</f></s> <s><l>Counter -5</l><f>/ccg-5</f></s>
