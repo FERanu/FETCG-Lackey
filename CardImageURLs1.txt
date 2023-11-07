@@ -1,3 +1,4 @@
+CardImageURLs:	
 fe001.png	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/S1/fe001.png
 fe002.png	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/S1/fe002.png
 fe003.png	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/S1/fe003.png
