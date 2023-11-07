@@ -18,13 +18,13 @@
 </deckszone>
 
 <gamezone>
-<label>Off the Battlefield</label>
+<label>Outside the Battlefield</label>
 <visibletoowner>yes</visibletoowner>
 <visibletoothers>yes</visibletoothers>
 </gamezone>
 
 <gamezone>
-<label>Overseas</label>
+<label>Outside the Country</label>
 <visibletoowner>yes</visibletoowner>
 <visibletoothers>yes</visibletoothers>
 </gamezone>
@@ -97,6 +97,11 @@
 
 <cardfunction>
 <label>Clear</label>
+<kind>CLEARCARD</kind>
+<includeasbutton>no</includeasbutton>
+</cardfunction>
+
+</plugin>
 <kind>CLEARCARD</kind>
 <includeasbutton>no</includeasbutton>
 </cardfunction>
