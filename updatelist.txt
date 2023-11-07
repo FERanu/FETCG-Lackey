@@ -1,4 +1,4 @@
-FE_TCG
+FE_TCG	07-11-23
 plugins/FE_TCG/version.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/version.txt	29201
 plugins/FE_TCG/formats.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/formats.txt	22078
 plugins/FE_TCG/plugininfo.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/plugininfo.txt	185276
