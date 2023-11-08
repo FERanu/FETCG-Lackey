@@ -1,15 +1,15 @@
-FE_TCG	07-11-23
-plugins/FE_TCG/version.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/version.txt	29201
+FE_TCG	09-11-23
+plugins/FE_TCG/version.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/version.txt	29203
 plugins/FE_TCG/formats.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/formats.txt	22078
 plugins/FE_TCG/plugininfo.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/plugininfo.txt	185276
-plugins/FE_TCG/uninstall.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/uninstall.txt	4624
+plugins/FE_TCG/uninstall.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/uninstall.txt	13485
 plugins/FE_TCG/CardImageURLs1.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/CardImageURLs1.txt	8738481
 plugins/FE_TCG/CardImageURLs2.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/CardImageURLs2.txt	9636
-plugins/FE_TCG/defaultchat.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/defaultchat.txt	15393
+plugins/FE_TCG/defaultchat.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/defaultchat.txt	15600
 plugins/FE_TCG/sets/cardback.jpg	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/cardback.jpg	-28680
-plugins/FE_TCG/sets/cardata.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/cardata.txt	30942111
+plugins/FE_TCG/sets/cardata.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/cardata.txt	31015557
 plugins/FE_TCG/sets/Token.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/Token.txt	33015
-plugins/FE_TCG/saved/start.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/start.txt	35611
+plugins/FE_TCG/saved/Start.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/Start.txt	35611
 images/backgrounds/FETCGBrown.png	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/FETCGBrown.png	-1190956
 images/backgrounds/FETCGGreen.png	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/FETCGGreen.png	-1017443
 images/zonebackgrounds/DeckArea.png	https://dl.dropboxusercontent.com/s/1a4rjwwdz1ptqwj/DeckArea.png	-30452
