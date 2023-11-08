@@ -8,7 +8,7 @@ Your turn.
 You done?
 Please read the card.
 Reading cards...
-Using skill
+Using ability
 Yay!
 Good game.
 /clear
