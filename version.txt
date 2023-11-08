@@ -1,6 +1,6 @@
 <version>
 
-<lastupdateYYMMDD>231107</lastupdateYYMMDD>
+<lastupdateYYMMDD>231109</lastupdateYYMMDD>
 <quality>HIGH</quality>
 <versionurl>https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/updatelist.txt</updateurl>
