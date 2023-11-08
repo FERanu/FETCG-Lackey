@@ -1,5 +1,6 @@
 <uninstall>
 
-<dateYYMMDD>231107</dateYYMMDD>
-
+<dateYYMMDD>231109</dateYYMMDD>
+<removepath>sets/setimages/S1/fe097.png</removepath>
+<removepath>saved/start.txt</removepath>
 </uninstall>
