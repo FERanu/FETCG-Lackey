@@ -7,7 +7,7 @@ plugins/FE_TCG/CardImageURLs1.txt	https://raw.githubusercontent.com/FERanu/FETCG
 plugins/FE_TCG/CardImageURLs2.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/CardImageURLs2.txt	9636
 plugins/FE_TCG/defaultchat.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/defaultchat.txt	15600
 plugins/FE_TCG/sets/cardback.jpg	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/cardback.jpg	-28680
-plugins/FE_TCG/sets/cardata.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/cardata.txt	31091536
+plugins/FE_TCG/sets/cardata.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/cardata.txt	-1
 plugins/FE_TCG/sets/Token.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/Token.txt	33015
 plugins/FE_TCG/saved/Start.txt	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/Start.txt	35611
 images/backgrounds/FETCGBrown.png	https://raw.githubusercontent.com/FERanu/FETCG-Lackey/main/FETCGBrown.png	-1190956
